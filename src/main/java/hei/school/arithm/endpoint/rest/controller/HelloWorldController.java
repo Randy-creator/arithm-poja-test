@@ -1,9 +1,8 @@
 package hei.school.arithm.endpoint.rest.controller;
 
-import java.util.List;
-
 import hei.school.arithm.endpoint.event.EventProducer;
 import hei.school.arithm.endpoint.event.model.SendEmailRequested;
+import java.util.List;
 import lombok.AllArgsConstructor;
 import lombok.SneakyThrows;
 import org.springframework.web.bind.annotation.GetMapping;
