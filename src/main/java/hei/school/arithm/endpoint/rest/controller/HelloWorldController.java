@@ -1,6 +1,5 @@
 package hei.school.arithm.endpoint.rest.controller;
 
-
 import hei.school.arithm.service.HelloWorldService;
 import lombok.AllArgsConstructor;
 import org.springframework.web.bind.annotation.GetMapping;
